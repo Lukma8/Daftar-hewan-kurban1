@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #ffffff;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+.daftar-hewan {
+  list-style-type: none;
+  padding: 0;
+}
+
+.nama-hewan {
+  background-color: #77e4c8;
+  color: #ffffff;
+  margin: 10px 0;
+  padding: 15px;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
